@@ -1,0 +1,21 @@
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA_GYM.Form1.resources
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\bin\Debug\net6.0-windows\ALPHA GYM.exe
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\bin\Debug\net6.0-windows\ALPHA GYM.deps.json
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\bin\Debug\net6.0-windows\ALPHA GYM.runtimeconfig.json
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\bin\Debug\net6.0-windows\ALPHA GYM.dll
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\bin\Debug\net6.0-windows\ALPHA GYM.pdb
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA_GYM.espaceadmin.resources
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.dll
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\refint\ALPHA GYM.dll
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.pdb
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA GYM.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ref\ALPHA GYM.dll
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA_GYM.GererC.resources
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA_GYM.GererE.resources
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA_GYM.GererS.resources
+C:\Users\Asus\source\repos\ALPHA GYM\ALPHA GYM\obj\Debug\net6.0-windows\ALPHA_GYM.Properties.Resources.resources
